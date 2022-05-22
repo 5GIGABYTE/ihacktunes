@@ -6,7 +6,8 @@ If you would like to view our full text file, visit here - https://sourceforge.n
 Welcome to the hacked version of iTunes! This version is our newest version, and everything else that is in here is copyright of Apple Inc.
 
 About iHackTunes
-iHackTunes is the easiest way to enjoy your favorite music, ripped movies, ripped TV shows, and more on your PC or Mac!
+
+iHackTunes is the easiest way to enjoy your favorite music, ripped movies, ripped TV shows, and more on your PC.
 
 iHackTunes is also home to iHackMusic (aka Apple Music). Give your music collection a major upgrade. iHackMusic gives you unlimited access to over 70 million songs and your entire music library. All ad-free and available right from your iphone, ipad, or Mac. Try it today. There’s no commitment — cancel anytime.
 
